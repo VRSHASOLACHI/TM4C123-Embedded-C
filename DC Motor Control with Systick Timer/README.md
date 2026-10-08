@@ -86,7 +86,4 @@ The SysTick timer generates the required 5 ms delay between the HIGH and LOW sta
 Implemented **DC motor speed and direction control using the SysTick timer** and GPIO pins of the TM4C123GH6PM. The experiment demonstrates PWM-based speed control, direction control using motor driver inputs, SysTick-based time delay generation, and GPIO interfacing. A **50% duty cycle** was used to generate 5 ms ON and 5 ms OFF intervals for minimum-speed clockwise motor operation.
 
 ## Output
-
-Add the PWM waveform screenshot here.
-
 ![DC Motor PWM Output](output.png)
