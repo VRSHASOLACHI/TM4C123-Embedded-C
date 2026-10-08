@@ -46,7 +46,4 @@ For the required **0° to 90° movement**, the pulse width is gradually increase
 Implemented **servo motor position control** using the **SysTick timer** and software-based PWM generation on PA5 of the TM4C123GH6PM. The experiment demonstrates SysTick timer configuration, reload value calculation, GPIO output control, PWM generation, and controlled servo movement between **0° and 90°** using register-level Embedded C programming.
 
 ## Output
-
-![Servo_motor](output.png)
-
 ![Servo Motor Output](output.png)
